@@ -33,9 +33,7 @@ repos:
         args:
           - --follow-imports=silent
           - --ignore-missing-imports
-          - --install-types
-          - --non-interactive
           - --config-file=mypy.ini
           - --explicit-package-bases
           - --exclude=jac-byllm/scripts
-        additional_dependencies: [types-PyYAML]
+        additional_dependencies: [types-requests, types-PyYAML]
