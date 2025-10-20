@@ -1,3 +1,5 @@
+hi hi
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.jac-lang.org//assets/logo.png">
